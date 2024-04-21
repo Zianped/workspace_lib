@@ -11,3 +11,6 @@ func SubNums(a, b int) int {
 func Wowza() string {
 	return "wowza"
 }
+func Slamdunk() string {
+	return "slamdunk"
+}
