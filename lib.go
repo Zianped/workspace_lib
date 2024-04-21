@@ -7,3 +7,7 @@ func AddNums(a, b int) int {
 func SubNums(a, b int) int {
 	return a - b
 }
+
+func wowza() string {
+	return "wowza"
+}
