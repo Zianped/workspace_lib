@@ -8,6 +8,6 @@ func SubNums(a, b int) int {
 	return a - b
 }
 
-func wowza() string {
+func Wowza() string {
 	return "wowza"
 }
